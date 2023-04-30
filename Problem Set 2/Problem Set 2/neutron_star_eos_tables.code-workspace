@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "neutron_star_eos_tables",
+			"path": "../../../../../Physics Research/CSULB/new_version_py/input_data/neutron_star_eos_tables"
+		},
+		{
+			"name": "Spring 2023",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
