@@ -1,6 +1,6 @@
 # MacOS stuff
-_MACOSX/
-._.DS_Store
+**/__MACOSX/
+**/._.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
