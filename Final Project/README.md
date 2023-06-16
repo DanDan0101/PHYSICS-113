@@ -1,4 +1,4 @@
-## Prerequisites
+## Required packages
 * numpy
 * matplotlib
 * scipy
